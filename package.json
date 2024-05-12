@@ -1,0 +1,22 @@
+{
+  "name": "zenclass-node",
+  "version": "1.0.0",
+  "description": "default thirdparty",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "file",
+    "syster"
+  ],
+  "author": "sundar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
